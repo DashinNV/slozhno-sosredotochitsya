@@ -4,12 +4,16 @@
 */
 
 :root {
-  --font-family: "IBM Plex Mono", sans-serif;
+  --font-family: "IBM Plex Mono", monospace;
   --fs-md: 18px;
   --fs-lg: 25px;
   --fs-xl: 116px;
   --fs-xxl: 120px;
   --fs-xxxl: 157px;
+
+  --heading-text: #db00ff;
+  --box-shadow: #ff0070;
+  --hover-button: rgba(255, 0, 112, 0.4);
   --heding-title-color:#ff0070;
   --accent-color: #ff0070;
   --border-color: #ff0070;
