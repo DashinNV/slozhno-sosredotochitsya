@@ -205,6 +205,10 @@
   margin-block-end: 80px;
 }
 
+.concentration .content__title {
+  max-width: 315px;
+}
+
 .concentration__container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

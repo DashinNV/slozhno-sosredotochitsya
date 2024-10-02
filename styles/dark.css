@@ -22,3 +22,7 @@
   --subtitle-color: #000028;
   --background-image: url(../images/cover-image-dark.png);
 }
+
+.page.theme_dark .decor {
+  display: block;
+}

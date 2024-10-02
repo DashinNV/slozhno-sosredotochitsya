@@ -26,7 +26,7 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    --bg-color: #fff1f7;
+    --background-color: #fff1f7;
     --subtitle-color: #353430;
     --heading-title: #353430;
     --heading-title-color: #353430;
@@ -41,7 +41,7 @@
   }
 
   .page.theme_auto {
-    background-image: var(--bg-image);
+    background-image: var(--background-image);
     background-color: #fff1f7;
   }
 
